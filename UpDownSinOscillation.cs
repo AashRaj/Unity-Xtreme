@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class upDownSinOscillation : MonoBehaviour
+public class UpDownSinOscillation : MonoBehaviour
 {
     private Vector3 _startPos;
     private Transform _transform;
